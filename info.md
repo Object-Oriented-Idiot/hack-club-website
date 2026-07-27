@@ -11,5 +11,5 @@ personal website:
 co-leader: nokia pls fill this out
 name:Polina
 discription: Y10 Emu fan who has a mild crush on windows powershell terminal(written by Niva)
-link to github profile:
+link to github profile: https://github.com/noki-emufan
 personal website:
