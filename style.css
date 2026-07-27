@@ -1,11 +1,12 @@
 body { 
   font-family: "Segoe UI", sans-serif; 
-  background:#eeeeee; 
-  margin:500px; 
+  background:#EEEEEE; 
+  background-color: #222222;
+  margin:25px; 
 }
 main {
   max-width: 500px;
-  margin: 500px auto;
+  margin: 5px auto;
   background:#FF00FF;
   padding:32px;
   border-radius:8px;
