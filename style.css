@@ -1,11 +1,11 @@
 body { 
   font-family: "Segoe UI", sans-serif; 
   background:#eeeeee; 
-  margin:5px; 
+  margin:500px; 
 }
 main {
   max-width: 500px;
-  margin: 50px auto;
+  margin: 500px auto;
   background:#FF00FF;
   padding:32px;
   border-radius:8px;
@@ -35,5 +35,4 @@ color: black;
 }
 
 body {background-color: #111111;}
-
 a {color: #EEEEEE;}
