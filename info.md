@@ -4,7 +4,7 @@ todo:
 
 info abt team:
 leader: 
-name:aNIVa
+name:Niva
 discription: weird person
 link to github profile: 
 personal website:
