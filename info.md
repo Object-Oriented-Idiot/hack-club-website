@@ -3,13 +3,9 @@ MAIN PAGE
 -motivational quote we have no motivation fym....
 -short description of the club
 -join us button with a sign up up form
-TOOL BAR
--home
--about
--HCB 
--projects
--team
--Join
+- format toolbar
+- buy ties
+- format navigation bar
 HOME
 -brings u at the main page
 ABOUT
