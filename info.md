@@ -1,5 +1,30 @@
 todo:
--idk
+MAIN PAGE 
+-motivational quote 
+-short description of the club
+-join us button with a sign up up form
+TOOL BAR
+-home
+-about
+-HCB 
+-projects
+-team
+-Join
+HOME
+-brings u at the main page
+ABOUT
+-just a more detailed plan idk
+HCB
+-HCB profile
+PROJECTS
+-what programmes we have done
+-good project examples
+-suggest a programme form
+TEAM
+-info about most awesome us
+JOIN
+-sign up form
+
 
 
 info abt team:
