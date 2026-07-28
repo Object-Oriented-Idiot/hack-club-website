@@ -1,11 +1,4 @@
 todo:
-MAIN PAGE 
--motivational quote we have no motivation fym....
-
-
-
-- buy ties
-
 HCB
 -HCB profile
 PROJECTS
