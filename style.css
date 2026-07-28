@@ -1,6 +1,7 @@
 body { 
   font-family: "Segoe UI", sans-serif; 
   background:#EEEEEE; 
+  color: white;
 }
 main {
   max-width: 500px;
