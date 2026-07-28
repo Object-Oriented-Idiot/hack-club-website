@@ -16,6 +16,7 @@ text-align: right;
 .topnav {
 background-color: #333;
 overflow: hidden;
+padding: 14px 16px;
 }
 
 .topnav a {
