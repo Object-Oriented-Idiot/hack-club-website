@@ -40,19 +40,18 @@ color: black;
  body {background-color: #111111;} 
 
   "buttons": {
-    "primary": {
-      "cursor": "pointer",
-      "fontFamily": "inherit",
-      "fontWeight": "bold",
-      "borderRadius": "circle",
-      "display": "inline-flex",
-      "alignItems": "center",
-      "justifyContent": "center",
-      "boxShadow": "card",
-      "letterSpacing": "headline",
-      "WebkitTapHighlightColor": "transparent",
-      "transition": "transform .125s ease-in-out, box-shadow .125s ease-in-out",
-      ":focus,:hover": {
-        "boxShadow": "elevated",
-        "transform": "scale(1.0625)"
+    "cursor": "pointer",
+    "fontFamily": "inherit",
+    "fontWeight": "bold",
+    "borderRadius": "circle",
+    "display": "inline-flex",
+    "alignItems": "center",
+    "justifyContent": "center",
+    "boxShadow": "card",
+    "letterSpacing": "headline",
+    "WebkitTapHighlightColor": "transparent",
+    "transition": "transform .125s ease-in-out, box-shadow .125s ease-in-out",
+    ":focus,:hover": {
+      "boxShadow": "elevated",
+      "transform": "scale(1.0625)"
       }
