@@ -2,28 +2,27 @@ body {
   font-family: "Segoe UI", sans-serif; 
   background:#EEEEEE; 
   color: white;
-}
+},
 main {
   max-width: 500px;
   margin: 50px auto;
   background:#FF00FF;
   padding:32px;
   border-radius:8px;
-}
+},
 h1.rainbow {
   display: inline-block;
-}
-
+},
 .right {
 text-align: right;
-}
+},
 .topnav {
 background-color: #333;
 overflow: hidden;
-}
+},
 .centre {
   text-align: center;
-}
+},
 .rainbow {
   --bg-size: 400%;
   --color-one: white;
@@ -41,12 +40,12 @@ overflow: hidden;
   background-clip: text;
   -webkit-background-clip: text;
   animation: move-bg 8s infinite linear;
-}
+},
 @keyframes move-bg {
   to {
     background-position: var(--bg-size) 0;
   }
-}
+},
 
 
 .topnav a {
@@ -56,19 +55,19 @@ text-align: center;
 padding: 14px 16px;
 text-decoration: none;
 font-size: 17px;
-}
+},
 
 .topnav a:hover {
 background-color: #EC3750;
 color: black;
-}
+},
 
 .topnav a.active {
 background-color: #EC3750;
 color: black;
-}
+},
 
- body {background-color: #111111;} 
+ body {background-color: #111111;},
 
   "buttons": {
     color: #EC3750;
@@ -86,7 +85,7 @@ color: black;
     ":focus,:hover": {
       "boxShadow": "elevated",
       "transform": "scale(1.0625)"
-      }
+      },
 white-space: nowrap
 
 "container": {
