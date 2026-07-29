@@ -10,6 +10,10 @@ main {
   padding:32px;
   border-radius:8px;
 }
+h1.rainbow {
+  display: inline-block;
+}
+
 .right {
 text-align: right;
 }
