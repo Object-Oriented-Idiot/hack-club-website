@@ -28,6 +28,7 @@ overflow: hidden;
                 var(--color-one)
               ) 0 0 / var(--bg-size) 100%;
   color: transparent;
+  white-space: nowrap;
   background-clip: text;
   -webkit-background-clip: text;
   animation: move-bg 8s infinite linear;
