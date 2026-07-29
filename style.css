@@ -88,3 +88,14 @@ color: black;
       "transform": "scale(1.0625)"
       }
 white-space: nowrap
+
+"container": {
+   "maxWidth": [
+   "layout",
+    null,
+    "layoutPlus"
+    ],
+    "width": "100%",
+    "mx": "auto",
+    "px": 3
+}
