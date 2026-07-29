@@ -17,6 +17,9 @@ text-align: right;
 background-color: #333;
 overflow: hidden;
 }
+.centre {
+text-align: center;
+}
 .rainbow {
   --bg-size: 400%;
   --color-one: white;
