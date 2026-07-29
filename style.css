@@ -2,7 +2,6 @@ body {
   font-family: "Segoe UI", sans-serif; 
   background:#EEEEEE; 
   color: white;
-  white-space: nowrap
 }
 main {
   max-width: 500px;
@@ -10,7 +9,6 @@ main {
   background:#FF00FF;
   padding:32px;
   border-radius:8px;
-  white-space: nowrap
 }
 .right {
 text-align: right;
@@ -21,7 +19,6 @@ overflow: hidden;
 }
 .centre {
   text-align: center;
-  white-space: nowrap
 }
 .rainbow {
   --bg-size: 400%;
@@ -35,6 +32,7 @@ overflow: hidden;
               ) 0 0 / var(--bg-size) 100%;
   color: transparent;
   white-space: nowrap;
+  display: inline;
   background-clip: text;
   -webkit-background-clip: text;
   animation: move-bg 8s infinite linear;
