@@ -2,6 +2,7 @@ body {
   font-family: "Segoe UI", sans-serif; 
   background:#EEEEEE; 
   color: white;
+  white-space: nowrap
 }
 main {
   max-width: 500px;
@@ -9,6 +10,7 @@ main {
   background:#FF00FF;
   padding:32px;
   border-radius:8px;
+  white-space: nowrap
 }
 .right {
 text-align: right;
@@ -18,7 +20,8 @@ background-color: #333;
 overflow: hidden;
 }
 .centre {
-text-align: center;
+  text-align: center;
+  white-space: nowrap
 }
 .rainbow {
   --bg-size: 400%;
@@ -81,3 +84,4 @@ color: black;
       "boxShadow": "elevated",
       "transform": "scale(1.0625)"
       }
+white-space: nowrap
