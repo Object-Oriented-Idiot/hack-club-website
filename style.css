@@ -19,9 +19,8 @@ overflow: hidden;
 }
 .rainbow {
   --bg-size: 400%;
-  --color-one: hsl(15 90% 55%);
-  --color-two: hsl(40 95% 55%);
-  font-size: clamp(3rem, 25vmin, 8rem);
+  --color-one: white;
+  --color-two: #EC3750;
   background: linear-gradient(
                 90deg,
                 var(--color-one),
@@ -38,16 +37,7 @@ overflow: hidden;
     background-position: var(--bg-size) 0;
   }
 }
-@media (prefers-reduced-motion: no-preference) {
-  .rainbow {
-    animation: move-bg 8s linear infinite;
-  }
-  @keyframes move-bg {
-    to {
-      background-position: var(--bg-size) 0;
-    }
-  }
-}
+
 
 .topnav a {
 float: left;
