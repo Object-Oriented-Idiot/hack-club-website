@@ -10,6 +10,9 @@ main {
   padding:32px;
   border-radius:8px;
 }
+h1.rainbow {
+  display: inline-block;
+}
 .right {
 text-align: right;
 }
@@ -17,6 +20,33 @@ text-align: right;
 background-color: #333;
 overflow: hidden;
 }
+.centre {
+  text-align: center;
+}
+.rainbow {
+  --bg-size: 400%;
+  --color-one: white;
+  --color-two: #EC3750;
+  background: linear-gradient(
+                90deg,
+                var(--color-one),
+                var(--color-two),
+                var(--color-one)
+              ) 0 0 / var(--bg-size) 100%;
+  color: transparent;
+  white-space: nowrap;
+  display: inline-block;
+  vertical-align: baseline;
+  background-clip: text;
+  -webkit-background-clip: text;
+  animation: move-bg 8s infinite linear;
+}
+@keyframes move-bg {
+  to {
+    background-position: var(--bg-size) 0;
+  }
+}
+
 
 .topnav a {
 float: left;
@@ -37,4 +67,23 @@ background-color: #EC3750;
 color: black;
 }
 
- body {background-color: #111111;} 
+ body {background-color: #111111;},
+
+  "buttons": {
+    color: #EC3750;
+    "cursor": "pointer",
+    "fontFamily": "inherit",
+    "fontWeight": "bold",
+    "borderRadius": "circle",
+    "display": "inline-flex",
+    "alignItems": "center",
+    "justifyContent": "center",
+    "boxShadow": "card",
+    "letterSpacing": "headline",
+    "WebkitTapHighlightColor": "transparent",
+    "transition": "transform .125s ease-in-out, box-shadow .125s ease-in-out",
+    ":focus,:hover": {
+      "boxShadow": "elevated",
+      "transform": "scale(1.0625)"
+      },
+white-space: nowrap
