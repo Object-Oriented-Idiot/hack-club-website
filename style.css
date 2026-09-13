@@ -55,7 +55,8 @@ text-align: center;
 padding: 14px 16px;
 font-size: 17px;
 display: flex;
-border-radius: 9px;
+border-radius: 8px;
+border-radius: 10px;
 justify-content: space-around;
 transition: 0.3s;
 }
@@ -64,7 +65,8 @@ transition: 0.3s;
 background-color: #EC3750;
 color: black;
 display: flex;
-border-radius: 9px;
+border-radius: 8px;
+border-radius: 10px;
 justify-content: space-around;
 transition: 0.3s;
 }
@@ -74,6 +76,7 @@ background-color: #EC3750;
 color: black;
 display: flex;
 border-radius: 9px;
+border-radius: 10px;
 justify-content: space-around;
 transition: 0.3s;
 }
