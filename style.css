@@ -47,15 +47,6 @@ overflow: hidden;
   }
 }
 
-nav {
-  display: flex;
-  justify-content: space-around;
-  width: 70%;
-  align-items: center;
-  border-radius: 8px;
-  border-radius: 10px;
-  transition: 0.3s;
-}
 
 
 .topnav a {
