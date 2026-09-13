@@ -53,13 +53,9 @@ float: left;
 color: #EC3750;
 text-align: center;
 padding: 14px 16px;
-text-decoration: none;
 font-size: 17px;
 display: flex;
 justify-content: space-around;
-width: 70%;
-border-radius: 8px;
-border-radius: 10px;
 transition: 0.3s;
 }
 
@@ -68,9 +64,6 @@ background-color: #EC3750;
 color: black;
 display: flex;
 justify-content: space-around;
-width: 70%;
-border-radius: 8px;
-border-radius: 10px;
 transition: 0.3s;
 }
 
@@ -79,9 +72,6 @@ background-color: #EC3750;
 color: black;
 display: flex;
 justify-content: space-around;
-width: 70%;
-border-radius: 8px;
-border-radius: 10px;
 transition: 0.3s;
 }
 
